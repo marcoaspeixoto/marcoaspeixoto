@@ -34,7 +34,7 @@ class Programmer
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/marcodotcastro/Meus-Estudos"><b>Meus Estudos</b></a></td>
+            	<td><a href="https://github.com/marcoaspeixoto/Meus-Estudos"><b>Meus Estudos</b></a></td>
 		<td>Exercícios de lógica e pequenos programas</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcoaspeixoto/Meus-Estudos?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcoaspeixoto/Meus-Estudos?style=flat-square&labelColor=343b41" /></td>
