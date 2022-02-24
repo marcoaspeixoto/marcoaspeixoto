@@ -18,7 +18,7 @@ class Programmer
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcoaspeixoto" alt="marcoaspeixoto" /> </p>
 
 
-<h3>Open Source Projects</h3>
+<h3>Study Repositories</h3>
 <table>
     <thead align="center">
         <tr border: none;>
