@@ -17,6 +17,8 @@ class Programmer
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcoaspeixoto" alt="marcoaspeixoto" /> </p>
 
+<p align="center"> <img src="https://wakatime.com/badge/user/c6b6e635-3dc0-41a6-a225-76691d5e7890.svg" /> </p>
+
 
 <h3>Study Repositories</h3>
 <table>
